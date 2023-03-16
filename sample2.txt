@@ -2,4 +2,7 @@ sample2.text
 
 i am in main branch and adding the new line.
 
+
 i am in branch2 andadding the new line.
+
+i am in branch2 adding the new line
