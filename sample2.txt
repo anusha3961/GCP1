@@ -5,4 +5,8 @@ i am in main branch and adding the new line.
 
 i am in branch2 andadding the new line.
 
+ branch2
 i am in branch2 adding the new line
+=======
+===i am in main 3 rd time
+ main
