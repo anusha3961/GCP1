@@ -1,0 +1,4 @@
+sample1 text we re placing here.
+and then commiting
+pushing
+and pulling
